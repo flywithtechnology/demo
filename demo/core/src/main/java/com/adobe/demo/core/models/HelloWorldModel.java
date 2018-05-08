@@ -40,7 +40,6 @@ public class HelloWorldModel {
         message = "\tHello World!\n";
         message += "\tThis is instance: " + settings.getSlingId() + "\n";
         message += "\tResource type is: " + resourceType + "\n";
-        
     }
 
     public String getMessage() {
